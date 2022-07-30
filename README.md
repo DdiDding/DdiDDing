@@ -4,19 +4,18 @@
 <h1></h1>
 <h1>Introduction</h1>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" width="8%" height="8%"/>
 
 <dl align="left"><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
-Nice to meet you! I am studying c++,<br>And I'm currently studying directX11 and unreal4 because I am interested in game engine 🤗
+Nice to meet you! I am studying <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="10%" height="10%"/>,<br>And I'm currently studying <img src="https://img.shields.io/badge/DirectX11-575757?style=flat-square&logo=containerd&logoColor=white" width="15%" height="15%"/> and <img src="https://img.shields.io/badge/Unreal4-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white" width="15%" height="15%"/> because I am interested in game engine 🤗
 </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-
+<br>
 <dl align="left"><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 I'm a developer who always tries to solve everything easily 😀<br>
 If you unlock the code easily, you'll get a code that's as easy to see.<br>
 Also, I think talking about concepts easily is a strength in communication.<br>
 So I'm continuously practicing while organizing the concept on my blog 📝
 </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-
+<br>
 <dl align="left"><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 And I like to share opinions with others.<br>
 So I often upload my work on YouTube or reddit, And get feedback and modify it 😁
